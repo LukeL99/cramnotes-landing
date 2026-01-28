@@ -138,7 +138,6 @@ function App() {
                   compositionWidth={640}
                   compositionHeight={400}
                   style={{ width: '100%' }}
-                  controls
                   loop
                   autoPlay
                 />
